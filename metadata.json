@@ -1,0 +1,6 @@
+{
+  "name": "Sri Lalitha Super Market – Online Grocery Store, Vissannapeta",
+  "description": "Shop daily groceries, Sona Masoori rice, dals, cooking oils, spices, fresh vegetables, dairy, and household essentials online from Sri Lalitha Super Market in Vissannapeta, Andhra Pradesh. Fast doorstep delivery!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
